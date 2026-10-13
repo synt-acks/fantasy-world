@@ -52,6 +52,8 @@ A shopkeeper’s son who hates fighting must carry his injured former-Slayer fat
 
 ## 3. World Overview
 
+For the shared setting reference and source/draft status boundaries, see the [Worldbuilding Foundation](../../world/setting-foundation.md). The sections below retain the detailed, novel-specific development plan; planned additions are not automatically universe-wide canon.
+
 ### Geography relevant to this novel
 
 **ORIGINAL SOURCE:** The Big River begins at a mountain north of Hazelwood, flows through Hazelwood, then south to Malcore. Hazelwood has a dock and shops. Malcore is a walled city with a gold central tower, a resident leader, stairs, and a gated approach. The Twin Mountains lie east; the desert of Cirm lies farther away. The source also names a forest, fields, swamps, and a cliff road.
